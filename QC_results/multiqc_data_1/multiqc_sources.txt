@@ -1,0 +1,21 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	Kallisto_output_cDNA | CL08 | SRR8668769	/Users/mkovalik/Desktop/DIY_2026/Kallisto_output_cDNA/CL08/CL08.log
+Kallisto	all_sections	Kallisto_output_cDNA | CL10 | SRR8668771	/Users/mkovalik/Desktop/DIY_2026/Kallisto_output_cDNA/CL10/CL10.log
+Kallisto	all_sections	Kallisto_output_cDNA | CL11 | SRR8668772	/Users/mkovalik/Desktop/DIY_2026/Kallisto_output_cDNA/CL11/CL11.log
+Kallisto	all_sections	Kallisto_output_cDNA | CL12 | SRR8668773	/Users/mkovalik/Desktop/DIY_2026/Kallisto_output_cDNA/CL12/CL12.log
+Kallisto	all_sections	Kallisto_output_cDNA | CL13 | SRR8668774	/Users/mkovalik/Desktop/DIY_2026/Kallisto_output_cDNA/CL13/CL13.log
+Kallisto	all_sections	Kallisto_output_cDNA | HS01 | SRR8668755	/Users/mkovalik/Desktop/DIY_2026/Kallisto_output_cDNA/HS01/HS01.log
+Kallisto	all_sections	Kallisto_output_cDNA | HS02 | SRR8668756	/Users/mkovalik/Desktop/DIY_2026/Kallisto_output_cDNA/HS02/HS02.log
+Kallisto	all_sections	Kallisto_output_cDNA | HS03 | SRR8668757	/Users/mkovalik/Desktop/DIY_2026/Kallisto_output_cDNA/HS03/HS03.log
+Kallisto	all_sections	Kallisto_output_cDNA | HS04 | SRR8668758	/Users/mkovalik/Desktop/DIY_2026/Kallisto_output_cDNA/HS04/HS04.log
+Kallisto	all_sections	Kallisto_output_cDNA | HS05 | SRR8668759	/Users/mkovalik/Desktop/DIY_2026/Kallisto_output_cDNA/HS05/HS05.log
+FastQC	all_sections	QC_results | SRR8668755	/Users/mkovalik/Desktop/DIY_2026/QC_results/SRR8668755_fastqc.zip
+FastQC	all_sections	QC_results | SRR8668756	/Users/mkovalik/Desktop/DIY_2026/QC_results/SRR8668756_fastqc.zip
+FastQC	all_sections	QC_results | SRR8668757	/Users/mkovalik/Desktop/DIY_2026/QC_results/SRR8668757_fastqc.zip
+FastQC	all_sections	QC_results | SRR8668758	/Users/mkovalik/Desktop/DIY_2026/QC_results/SRR8668758_fastqc.zip
+FastQC	all_sections	QC_results | SRR8668759	/Users/mkovalik/Desktop/DIY_2026/QC_results/SRR8668759_fastqc.zip
+FastQC	all_sections	QC_results | SRR8668769	/Users/mkovalik/Desktop/DIY_2026/QC_results/SRR8668769_fastqc.zip
+FastQC	all_sections	QC_results | SRR8668771	/Users/mkovalik/Desktop/DIY_2026/QC_results/SRR8668771_fastqc.zip
+FastQC	all_sections	QC_results | SRR8668772	/Users/mkovalik/Desktop/DIY_2026/QC_results/SRR8668772_fastqc.zip
+FastQC	all_sections	QC_results | SRR8668773	/Users/mkovalik/Desktop/DIY_2026/QC_results/SRR8668773_fastqc.zip
+FastQC	all_sections	QC_results | SRR8668774	/Users/mkovalik/Desktop/DIY_2026/QC_results/SRR8668774_fastqc.zip
